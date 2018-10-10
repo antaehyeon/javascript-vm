@@ -17,7 +17,7 @@
 7. [[STEP 7] 상품 선택](https://github.com/antaehyeon/javascript-vm/tree/antaehyeon/README/step7.md)
 8. [[STEP 8] 지연 처리](https://github.com/antaehyeon/javascript-vm/tree/antaehyeon/README/step8.md)
 9. [[STEP 9] 코드 개선하기](https://github.com/antaehyeon/javascript-vm/tree/antaehyeon/README/step8.md)
-10. [STEP 10] 테스트코드 작성하기
+10. [[STEP 10] 테스트코드 작성하기](https://github.com/antaehyeon/javascript-vm/blob/antaehyeon/README/step10.md)
 
 <br />
 
